@@ -1,2 +1,6 @@
 # WiMi
 Wireless data logging system
+
+In medical research, many scientists use mice as preliminary test subjects. Their small size allows scientists to house multiple test subjects in a confined area; this environment enables scientists to make rapid observations over multiple generations of mice and correlate those observations to human activity. However, these results are susceptible to human error because they are logged by a technicians. For this reason, lab researchers and technicians desire an automated tracking application to increase the efficiency of lab animal data acquisition. This system will help improve the overall quality of biomedical lab research. 
+
+MESi Labs, an undergraduate student team from the Electronic System Engineering Technology (ESET) Program at Texas A&M, will provide an automated research platform, called WiMi, used to monitor mice in a lab environment. The hardware portion of this platform consists of two entities: a base station and nodes. The base station will be connected to a Windows computer running WiMi software. Each node will be placed inside a mouse cage utilizing a specialized adapter. Once installed, researchers can use this platform to track the wheel running activities of the mice as well as observe environmental cage conditions such as light intensity, temperature, and humidity.
